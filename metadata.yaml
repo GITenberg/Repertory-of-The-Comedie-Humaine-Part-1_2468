@@ -1,5 +1,5 @@
 _repo: Repertory-of-The-Comedie-Humaine-Part-1_2468
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: McSpadden, J. Walker (Joseph Walker)
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1960
     gutenberg_agent_id: '437'
     url: http://www.gutenberg.org/2009/agents/437
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Christophe, Jules François
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '924'
     url: http://www.gutenberg.org/2009/agents/924
 description: 'Part 1: A - K'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2468#Repertory-of-The-Comedie-Humaine-Part-1
 gutenberg_issued: '2001-01-01'
 gutenberg_type: Text
 identifiers:
